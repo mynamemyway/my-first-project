@@ -1,3 +1,4 @@
+
 from datetime import datetime
 
 months = ['Январь', 'Февраль', 'Март', 'Апрель', 'Май', 'Июнь',
@@ -90,3 +91,4 @@ def print_calendar(year):
 
 # 🚀 Печать календаря
 print_calendar(year)
+
